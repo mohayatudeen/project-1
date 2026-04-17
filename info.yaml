@@ -17,8 +17,8 @@ project:
 pinout:
   # Inputs
   ui[0]: "voter A "
-  ui[1]: "Voter B  ui[2]: ""
-  ui[3]: "Voter C  ui[4]: ""
+  ui[1]: "Voter B "
+  ui[3]: "Voter C "
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
